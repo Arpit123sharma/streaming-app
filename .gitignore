@@ -140,5 +140,7 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+package.json text eol=lf
+package-lock.json text eol=lf
 
 # End of https://www.toptal.com/developers/gitignore/api/node
